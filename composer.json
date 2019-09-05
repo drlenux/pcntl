@@ -1,0 +1,19 @@
+{
+    "name": "drlenux/pcntl",
+    "description": "php pcntl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DrLenux",
+            "email": "drlenux@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "drlenux\\pcntl\\": "src/"
+        }
+    }
+}
